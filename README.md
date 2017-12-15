@@ -8,3 +8,6 @@ https://medium.com/wolox-driving-innovation/centralized-logging-in-microservices
 
 ### Steps to Building Authentication and Authorization for RESTful APIs
 https://dzone.com/articles/steps-to-building-authentication-and-authorization
+
+### Authentication Module for django rest auth
+https://github.com/James1345/django-rest-knox
