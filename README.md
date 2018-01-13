@@ -18,5 +18,6 @@ https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl
 
 ### Ethereum
 http://truffleframework.com/tutorials/ethereum-overview
-  #### http://truffleframework.com/tutorials/pet-shop
-  #### https://medium.com/mercuryprotocol/how-to-create-your-own-private-ethereum-blockchain-dad6af82fc9f
+### http://truffleframework.com/tutorials/pet-shop
+### http://truffleframework.com/tutorials/robust-smart-contracts-with-openzeppelin
+### https://medium.com/mercuryprotocol/how-to-create-your-own-private-ethereum-blockchain-dad6af82fc9f
